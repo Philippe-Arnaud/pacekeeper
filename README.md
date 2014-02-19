@@ -67,7 +67,7 @@ Very few people can learn how to use a new product from scratch whether because 
 
 ### Mobile
 The mobile-centric aspect of our lives has changed everything. Any system that cannot adapt to such usage is meant to decay. Dedicated interfaces, provided by centralized systems are not an option. The mobile technology is moving too fast for heavy-centralized system to adapt. Moreover, such centralized systems tend to lock users out because they're using non-canon tools; which  is a total non-sense. Anyone willing to collaborate must be welcomed with the least requirement imposed on his side.
-**Therefore**, **interoperability** is a mandatory requirements for any system to be able to give access to anyone.
+**Therefore**, **interoperability** is a mandatory requirement for any system to be able to give access to anyone.
 
 In conclusion, a tool-centric approach will definitively fail to answer our needs.
 Only a **distributed, modular, well designed, interoperable** approach can provide us an acceptable solution.
