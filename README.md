@@ -71,3 +71,5 @@ The mobile-centric aspect of our lives has changed everything. Any system that c
 
 In conclusion, a tool-centric approach will definitively fail to answer our needs.
 Only a **distributed, modular, well designed, interoperable** approach can provide us an acceptable solution.
+
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
